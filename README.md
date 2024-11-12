@@ -1,2 +1,2 @@
-# Deeplearning_practice
-Practice codes for deep learning and transformer
+# Deeplearning templates
+Basic templates and explanations for deep learning 
